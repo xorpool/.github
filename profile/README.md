@@ -11,4 +11,4 @@ Any other repository or account claiming to be xorpool is not us. Do not
 download pool software from anywhere but the link above.
 
 - Project site: [xorpool.com](https://xorpool.com)
-- Related: [bitcoinxor.com](https://bitcoinxor.com) · [xorminer.com](https://xorminer.com)
+- Related: [bitcoinxor.org](https://bitcoinxor.org) · [xorminer.com](https://xorminer.com)
