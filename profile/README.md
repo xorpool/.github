@@ -10,5 +10,6 @@ impersonation of the project.
 Any other repository or account claiming to be xorpool is not us. Do not
 download pool software from anywhere but the link above.
 
+- Run your own node + DATUM gateway on the pool: [bitcoinxor/datum-in-a-box](https://github.com/bitcoinxor/datum-in-a-box)
 - Project site: [xorpool.com](https://xorpool.com)
 - Related: [bitcoinxor.org](https://bitcoinxor.org) · [xorminer.com](https://xorminer.com)
